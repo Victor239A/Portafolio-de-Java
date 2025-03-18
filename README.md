@@ -1,5 +1,5 @@
 
-# JAVA
+# Programa de JAVA
 
 Presentación de mis proyectos con JAVA versión 1.21.    
 Interfaz del programa
