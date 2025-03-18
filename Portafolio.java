@@ -64,6 +64,6 @@ public class Portafolio {
             System.out.println(); 
         } while (opcion != 0);
 
-        sc.close();
+     
     }
 }
